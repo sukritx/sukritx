@@ -2,28 +2,6 @@
 
 Passionate full-stack developer currently studying Economics at Chulalongkorn University
 
-## Skills
-
-- **Languages:**
-  - JavaScript (Node.js, Express.js)
-  - TypeScript
-  - Python
-  - HTML5
-  - CSS3
-  - PHP
-
-- **Frameworks/Libraries:**
-  - Node.js
-  - Express.js
-  - React
-
-- **Other Technologies:**
-  - JSON Web Tokens (JWT)
-
-## GitHub Stats
-
-[![Phupha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukritx&show_icons=true&hide=contribs)](https://github.com/sukritx)
-
 ## Badges
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
