@@ -1,6 +1,6 @@
 # Phupha
 
-Passionate full-stack developer currently studying Economics at Chulalongkorn University
+currently studying economics at chulalongkorn university
 
 ## Badges
 
